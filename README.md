@@ -140,4 +140,4 @@ References
 
 **[freedesktop.org standards](http://freedesktop.org/Standards/)**
 
-**[Rider IDE : Alternate]([http://freedesktop.org/Standards/](https://www.jetbrains.com/rider/))**
+**[Rider IDE]([http://freedesktop.org/Standards/](https://www.jetbrains.com/rider/))**
