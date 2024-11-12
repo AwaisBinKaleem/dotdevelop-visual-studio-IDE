@@ -139,3 +139,5 @@ References
 **[Gnome Human Interface Guidelines (HIG)](https://developer.gnome.org/hig/stable/)**
 
 **[freedesktop.org standards](http://freedesktop.org/Standards/)**
+
+**[Rider IDE : Alternate]([http://freedesktop.org/Standards/](https://www.jetbrains.com/rider/))**
